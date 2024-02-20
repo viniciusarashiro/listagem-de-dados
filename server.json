@@ -1,0 +1,804 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 201
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "ASP.NET",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "MySQL",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "SQLite",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Kubernetes",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Jenkins",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "GitHub",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Bitbucket",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Jira",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Trello",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Slack",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Zoom",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Microsoft Teams",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "Google Meet",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Skype",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Discord",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "WhatsApp",
+      "amountOfVideos": 185
+    },
+    {
+      "title": "Telegram",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Signal",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "Facebook Messenger",
+      "amountOfVideos": 215
+    },
+    {
+      "title": "Twitter",
+      "amountOfVideos": 225
+    },
+    {
+      "title": "LinkedIn",
+      "amountOfVideos": 235
+    },
+    {
+      "title": "Instagram",
+      "amountOfVideos": 245
+    },
+    {
+      "title": "Snapchat",
+      "amountOfVideos": 255
+    },
+    {
+      "title": "TikTok",
+      "amountOfVideos": 265
+    },
+    {
+      "title": "Pinterest",
+      "amountOfVideos": 275
+    },
+    {
+      "title": "Reddit",
+      "amountOfVideos": 285
+    },
+    {
+      "title": "Tumblr",
+      "amountOfVideos": 295
+    },
+    {
+      "title": "YouTube",
+      "amountOfVideos": 305
+    },
+    {
+      "title": "Vimeo",
+      "amountOfVideos": 315
+    },
+    {
+      "title": "Netflix",
+      "amountOfVideos": 325
+    },
+    {
+      "title": "Amazon Prime Video",
+      "amountOfVideos": 335
+    },
+    {
+      "title": "Hulu",
+      "amountOfVideos": 345
+    },
+    {
+      "title": "Disney+",
+      "amountOfVideos": 355
+    },
+    {
+      "title": "Apple TV+",
+      "amountOfVideos": 365
+    },
+    {
+      "title": "HBO Max",
+      "amountOfVideos": 375
+    },
+    {
+      "title": "Spotify",
+      "amountOfVideos": 385
+    },
+    {
+      "title": "Apple Music",
+      "amountOfVideos": 395
+    },
+    {
+      "title": "Amazon Music",
+      "amountOfVideos": 405
+    },
+    {
+      "title": "Google Play Music",
+      "amountOfVideos": 415
+    },
+    {
+      "title": "Tidal",
+      "amountOfVideos": 425
+    },
+    {
+      "title": "Deezer",
+      "amountOfVideos": 435
+    },
+    {
+      "title": "SoundCloud",
+      "amountOfVideos": 445
+    },
+    {
+      "title": "Pandora",
+      "amountOfVideos": 455
+    },
+    {
+      "title": "YouTube Music",
+      "amountOfVideos": 465
+    },
+    {
+      "title": "Microsoft Office",
+      "amountOfVideos": 475
+    },
+    {
+      "title": "Google Workspace",
+      "amountOfVideos": 485
+    },
+    {
+      "title": "Zoom",
+      "amountOfVideos": 495
+    },
+    {
+      "title": "Skype",
+      "amountOfVideos": 505
+    },
+    {
+      "title": "Slack",
+      "amountOfVideos": 515
+    },
+    {
+      "title": "Microsoft Teams",
+      "amountOfVideos": 525
+    },
+    {
+      "title": "GitHub",
+      "amountOfVideos": 535
+    },
+    {
+      "title": "Jira",
+      "amountOfVideos": 545
+    },
+    {
+      "title": "Trello",
+      "amountOfVideos": 555
+    },
+    {
+      "title": "Bitbucket",
+      "amountOfVideos": 565
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 575
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 201
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "ASP.NET",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "MySQL",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "SQLite",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Kubernetes",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Jenkins",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "GitHub",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Bitbucket",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Jira",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Trello",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Slack",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Zoom",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Microsoft Teams",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 201
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "ASP.NET",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "MySQL",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "SQLite",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Kubernetes",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Jenkins",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "GitHub",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Bitbucket",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Jira",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Trello",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Slack",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Zoom",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Microsoft Teams",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "Google Meet",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Skype",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Discord",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "WhatsApp",
+      "amountOfVideos": 185
+    },
+    {
+      "title": "Telegram",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Signal",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "Facebook Messenger",
+      "amountOfVideos": 215
+    },
+    {
+      "title": "Twitter",
+      "amountOfVideos": 225
+    },
+    {
+      "title": "LinkedIn",
+      "amountOfVideos": 235
+    },
+    {
+      "title": "Instagram",
+      "amountOfVideos": 245
+    },
+    {
+      "title": "Snapchat",
+      "amountOfVideos": 255
+    },
+    {
+      "title": "TikTok",
+      "amountOfVideos": 265
+    },
+    {
+      "title": "Pinterest",
+      "amountOfVideos": 275
+    },
+    {
+      "title": "Reddit",
+      "amountOfVideos": 285
+    },
+    {
+      "title": "Tumblr",
+      "amountOfVideos": 295
+    },
+    {
+      "title": "YouTube",
+      "amountOfVideos": 305
+    },
+    {
+      "title": "Vimeo",
+      "amountOfVideos": 315
+    },
+    {
+      "title": "Netflix",
+      "amountOfVideos": 325
+    },
+    {
+      "title": "Amazon Prime Video",
+      "amountOfVideos": 335
+    },
+    {
+      "title": "Hulu",
+      "amountOfVideos": 345
+    },
+    {
+      "title": "Disney+",
+      "amountOfVideos": 355
+    },
+    {
+      "title": "Apple TV+",
+      "amountOfVideos": 365
+    },
+    {
+      "title": "HBO Max",
+      "amountOfVideos": 375
+    },
+    {
+      "title": "Spotify",
+      "amountOfVideos": 385
+    },
+    {
+      "title": "Apple Music",
+      "amountOfVideos": 395
+    },
+    {
+      "title": "Amazon Music",
+      "amountOfVideos": 405
+    },
+    {
+      "title": "Google Play Music",
+      "amountOfVideos": 415
+    },
+    {
+      "title": "Tidal",
+      "amountOfVideos": 425
+    },
+    {
+      "title": "Deezer",
+      "amountOfVideos": 435
+    },
+    {
+      "title": "SoundCloud",
+      "amountOfVideos": 445
+    },
+    {
+      "title": "Pandora",
+      "amountOfVideos": 455
+    },
+    {
+      "title": "YouTube Music",
+      "amountOfVideos": 465
+    },
+    {
+      "title": "Microsoft Office",
+      "amountOfVideos": 475
+    },
+    {
+      "title": "Google Workspace",
+      "amountOfVideos": 485
+    },
+    {
+      "title": "Zoom",
+      "amountOfVideos": 495
+    },
+    {
+      "title": "Skype",
+      "amountOfVideos": 505
+    },
+    {
+      "title": "Slack",
+      "amountOfVideos": 515
+    },
+    {
+      "title": "Microsoft Teams",
+      "amountOfVideos": 525
+    },
+    {
+      "title": "GitHub",
+      "amountOfVideos": 535
+    },
+    {
+      "title": "Jira",
+      "amountOfVideos": 545
+    },
+    {
+      "title": "Trello",
+      "amountOfVideos": 555
+    },
+    {
+      "title": "Bitbucket",
+      "amountOfVideos": 565
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 575
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 201
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "ASP.NET",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "MySQL",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "SQLite",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Kubernetes",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Jenkins",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "GitHub",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Bitbucket",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Jira",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Trello",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Slack",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Zoom",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Microsoft Teams",
+      "amountOfVideos": 145
+    }
+  ]
+}
